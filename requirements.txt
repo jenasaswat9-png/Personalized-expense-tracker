@@ -1,0 +1,10 @@
+streamlit==1.39.0
+fastapi==0.115.0
+pydantic>=2.7
+uvicorn==0.30.6
+mysql-connector-python==9.0.0
+pandas>=2.2.0,<3
+requests>=2.32.0
+pytest>=8.4.0
+python-dotenv>=1.1.1
+matplotlib>=3.8.0
