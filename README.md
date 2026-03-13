@@ -278,8 +278,3 @@ This project demonstrates:
 
 Aspiring Data Scientist | Machine Learning & Data Engineering Enthusiast
 
----
-
-# 📜 License
-
-This project is licensed under the **MIT License**.
